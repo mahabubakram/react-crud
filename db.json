@@ -1,0 +1,273 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "hallo",
+      "author": "mak",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "abc@def.com",
+      "type": "seller"
+    },
+    {
+      "id": 2,
+      "email": "super@lanxess.com",
+      "type": "buyer"
+    },
+    {
+      "id": 3,
+      "email": "mak@ki.com",
+      "type": "buyer"
+    },
+    {
+      "email": "abc@email.com33",
+      "password": "dsad",
+      "type": "seller",
+      "id": 4
+    },
+    {
+      "email": "abc@email.com",
+      "password": "s",
+      "type": "seller",
+      "id": 5
+    },
+    {
+      "email": "abc@email.coms",
+      "password": "s",
+      "type": "seller",
+      "id": 6
+    },
+    {
+      "email": "abc@email.com",
+      "password": "",
+      "type": "seller",
+      "id": 7
+    },
+    {
+      "data": {
+        "email": "abc@email.com",
+        "password": "",
+        "type": "seller",
+        "id": 7
+      },
+      "status": 201,
+      "statusText": "Created",
+      "headers": {
+        "pragma": "no-cache",
+        "location": "http://localhost:9999/users/7",
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "no-cache",
+        "expires": "-1"
+      },
+      "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "Content-Type": "application/json;charset=utf-8"
+        },
+        "method": "post",
+        "Content-Type": "application/json",
+        "url": "http://localhost:9999/users",
+        "data": "{\"email\":\"abc@email.com\",\"password\":\"\",\"type\":\"seller\"}"
+      },
+      "request": {},
+      "password": "fdsfdsf",
+      "email": "abc@email.comd",
+      "id": 8
+    },
+    {
+      "email": "abc@email.comd",
+      "password": "fdf",
+      "type": "seller",
+      "id": 9
+    },
+    {
+      "data": {
+        "email": "abc@email.comd",
+        "password": "fdf",
+        "type": "seller",
+        "id": 9
+      },
+      "status": 201,
+      "statusText": "Created",
+      "headers": {
+        "pragma": "no-cache",
+        "location": "http://localhost:9999/users/9",
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "no-cache",
+        "expires": "-1"
+      },
+      "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "Content-Type": "application/json;charset=utf-8"
+        },
+        "method": "post",
+        "Content-Type": "application/json",
+        "url": "http://localhost:9999/users",
+        "data": "{\"email\":\"abc@email.comd\",\"password\":\"fdf\",\"type\":\"seller\"}"
+      },
+      "request": {},
+      "email": "abc@email.comdgf",
+      "password": "fdfgfgfg",
+      "id": 10
+    },
+    {
+      "email": "abc@email.comd",
+      "password": "sddsdsd",
+      "type": "seller",
+      "id": 11
+    },
+    {
+      "email": "abc@email.comsdsd",
+      "password": "dsadsa",
+      "type": "seller",
+      "id": 12
+    },
+    {
+      "email": "abc@email.comdf",
+      "password": "dsdsad",
+      "type": "seller",
+      "id": 13
+    },
+    {
+      "email": "abc@email.comss",
+      "password": "dsd",
+      "type": "seller",
+      "id": 14
+    },
+    {
+      "data": {
+        "email": "abc@email.comss",
+        "password": "dsd",
+        "type": "seller",
+        "id": 14
+      },
+      "status": 201,
+      "statusText": "Created",
+      "headers": {
+        "pragma": "no-cache",
+        "location": "http://localhost:9999/users/14",
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "no-cache",
+        "expires": "-1"
+      },
+      "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "Content-Type": "application/json;charset=utf-8"
+        },
+        "method": "post",
+        "Content-Type": "application/json",
+        "url": "http://localhost:9999/users",
+        "data": "{\"email\":\"abc@email.comss\",\"password\":\"dsd\",\"type\":\"seller\"}"
+      },
+      "request": {},
+      "email": "abc@email.comssfdfdf",
+      "password": "dsdfdfdf",
+      "id": 15
+    },
+    {
+      "data": {
+        "data": {
+          "email": "abc@email.comss",
+          "password": "dsd",
+          "type": "seller",
+          "id": 14
+        },
+        "status": 201,
+        "statusText": "Created",
+        "headers": {
+          "pragma": "no-cache",
+          "location": "http://localhost:9999/users/14",
+          "content-type": "application/json; charset=utf-8",
+          "cache-control": "no-cache",
+          "expires": "-1"
+        },
+        "config": {
+          "transformRequest": {},
+          "transformResponse": {},
+          "timeout": 0,
+          "xsrfCookieName": "XSRF-TOKEN",
+          "xsrfHeaderName": "X-XSRF-TOKEN",
+          "maxContentLength": -1,
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json;charset=utf-8"
+          },
+          "method": "post",
+          "Content-Type": "application/json",
+          "url": "http://localhost:9999/users",
+          "data": "{\"email\":\"abc@email.comss\",\"password\":\"dsd\",\"type\":\"seller\"}"
+        },
+        "request": {},
+        "email": "abc@email.comssfdfdf",
+        "password": "dsdfdfdf",
+        "id": 15
+      },
+      "status": 201,
+      "statusText": "Created",
+      "headers": {
+        "pragma": "no-cache",
+        "location": "http://localhost:9999/users/15",
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "no-cache",
+        "expires": "-1"
+      },
+      "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "Content-Type": "application/json;charset=utf-8"
+        },
+        "method": "post",
+        "Content-Type": "application/json",
+        "url": "http://localhost:9999/users",
+        "data": "{\"data\":{\"email\":\"abc@email.comss\",\"password\":\"dsd\",\"type\":\"seller\",\"id\":14},\"status\":201,\"statusText\":\"Created\",\"headers\":{\"pragma\":\"no-cache\",\"location\":\"http://localhost:9999/users/14\",\"content-type\":\"application/json; charset=utf-8\",\"cache-control\":\"no-cache\",\"expires\":\"-1\"},\"config\":{\"transformRequest\":{},\"transformResponse\":{},\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"Content-Type\":\"application/json;charset=utf-8\"},\"method\":\"post\",\"Content-Type\":\"application/json\",\"url\":\"http://localhost:9999/users\",\"data\":\"{\\\"email\\\":\\\"abc@email.comss\\\",\\\"password\\\":\\\"dsd\\\",\\\"type\\\":\\\"seller\\\"}\"},\"request\":{},\"email\":\"abc@email.comssfdfdf\",\"password\":\"dsdfdfdf\"}"
+      },
+      "request": {},
+      "email": "abc@email.comssfdfdfrt",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
